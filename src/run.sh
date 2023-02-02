@@ -1,0 +1,1 @@
+clear && javac Main.java -Xlint:unchecked && java Main
